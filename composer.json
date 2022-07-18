@@ -1,0 +1,12 @@
+{
+    "name": "hall-of-fame",
+    "type": "project",
+    "description": "The hall-of-fame project.",
+    "keywords": [
+        "hall-of-fame"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.1"
+    }
+}
