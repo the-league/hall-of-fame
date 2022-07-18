@@ -4,3 +4,4 @@
 - This CHANGELOG file to describe the Project.
 - Added example of best code in the whole world
 - Added best of the best of the best PHP index file
+- Added cool .gitignore file
