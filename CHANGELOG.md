@@ -10,3 +10,4 @@
 ### Added
 - Added composer.json
 - Added cool .gitignore file
+- Added sweetie pies contributing rule
