@@ -11,3 +11,7 @@
 - Added composer.json
 - Added cool .gitignore file
 - Added sweetie pies contributing rule
+
+## 2022-07-19
+### Edited
+- Edited cool .gitignore file
