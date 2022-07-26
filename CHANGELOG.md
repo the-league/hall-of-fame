@@ -15,3 +15,7 @@
 ## 2022-07-19
 ### Edited
 - Edited cool .gitignore file
+
+## 2022-07-27
+### Edited
+- Added docs/pull_request_template.md
